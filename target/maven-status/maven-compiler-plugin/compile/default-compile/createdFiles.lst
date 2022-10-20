@@ -1,6 +1,0 @@
-com\digital_nomads\utilities\ChromeWebDriver.class
-com\digital_nomads\utilities\EdgeWebDriver.class
-com\digital_nomads\Main.class
-com\digital_nomads\utilities\FirefoxWebDriver.class
-com\digital_nomads\dataproviders\ConfigReader.class
-com\digital_nomads\utilities\Driver.class
